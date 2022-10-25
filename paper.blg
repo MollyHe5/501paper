@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'paper.blg'
+[84] biber-darwin:340> INFO - === Tue Oct 25, 2022, 15:09:09
+[99] Biber.pm:418> INFO - Reading 'paper.bcf'
+[213] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[228] Biber.pm:4383> INFO - Processing section 0
+[239] Biber.pm:4574> INFO - Looking for bibtex file 'Biblio-Database.bib' for section 0
+[242] bibtex.pm:1713> INFO - LaTeX decoding ...
+[280] bibtex.pm:1518> INFO - Found BibTeX data source 'Biblio-Database.bib'
+[602] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[602] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[602] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[602] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[641] bbl.pm:654> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[685] bbl.pm:757> INFO - Output to paper.bbl
+[685] Biber.pm:130> WARN - Duplicate entry key: 'hu2019research' in file 'Biblio-Database.bib', skipping ...
+[685] Biber.pm:132> INFO - WARNINGS: 1

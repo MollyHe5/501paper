@@ -1,0 +1,8 @@
+\acswitchoff 
+\contentsline {chapter}{List of Figures}{iv}{}%
+\contentsline {chapter}{List of Tables}{v}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{2}{}%
+\contentsline {chapter}{\numberline {3}Proposed Research}{3}{}%
+\contentsline {chapter}{\numberline {4}Expected Contributions}{4}{}%
+\contentsline {chapter}{References}{5}{}%
